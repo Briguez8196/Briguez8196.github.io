@@ -1,0 +1,65 @@
+body {
+
+    background-color: #cccccc;
+}
+
+
+h1{
+    text-align:center;
+    color:forestgreen;
+}
+h2{
+    text-align:center;
+    color:lightseagreen;
+}
+p{
+    text-align:center;
+    color:darkgreen;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+table {
+    border-spacing: 5px;
+}
+th, td {
+    padding: 15px;
+}
+
+table {
+    border-spacing: 10px;
+}
+th{
+    text-align:center;
+    color:cornflowerblue;
+}
+
+td{
+    text-align:center;
+}
+
+
+.topnav {
+
+    background-color:lightseagreen;
+    overflow: hidden;
+
+}
+.topnav a:hover {
+    background-color:antiquewhite;
+    color: black;
+}
+
+.topnav a{
+    color:green;
+    padding: 211.7px 211.7px;
+    font-size:16px;
+    text-align:center;
+}
+
+.ol{
+    text-align:center;
+    list-style-position: inside;
+}
+

@@ -1,0 +1,5 @@
+body{
+    background-image:url("img/spinning.gif");
+    background-repeat:repeat;
+    background-size:200 px 200 px;
+}
